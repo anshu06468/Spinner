@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string-array name="cricketers">
+        <item>Ms Dhoni</item>
+        <item>Sachin Tendulkar</item>
+        <item>Zaheer Khan</item>
+    </string-array>
+</resources>
